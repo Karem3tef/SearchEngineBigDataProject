@@ -1,0 +1,16 @@
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Infrastructure\bin\Debug\net8.0\SearchEngine.Infrastructure.deps.json
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Infrastructure\bin\Debug\net8.0\SearchEngine.Infrastructure.dll
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Infrastructure\bin\Debug\net8.0\SearchEngine.Infrastructure.pdb
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Infrastructure\bin\Debug\net8.0\SearchEngine.Domain.dll
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Infrastructure\bin\Debug\net8.0\SearchEngine.Domain.pdb
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Infrastructure\obj\Debug\net8.0\SearchEngine.Infrastructure.csproj.AssemblyReference.cache
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Infrastructure\obj\Debug\net8.0\SearchEngine.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Infrastructure\obj\Debug\net8.0\SearchEngine.Infrastructure.AssemblyInfoInputs.cache
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Infrastructure\obj\Debug\net8.0\SearchEngine.Infrastructure.AssemblyInfo.cs
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Infrastructure\obj\Debug\net8.0\SearchEngine.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Infrastructure\obj\Debug\net8.0\SearchEngine.Infrastructure.sourcelink.json
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Infrastructure\obj\Debug\net8.0\SearchEn.2D88E438.Up2Date
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Infrastructure\obj\Debug\net8.0\SearchEngine.Infrastructure.dll
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Infrastructure\obj\Debug\net8.0\refint\SearchEngine.Infrastructure.dll
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Infrastructure\obj\Debug\net8.0\SearchEngine.Infrastructure.pdb
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Infrastructure\obj\Debug\net8.0\ref\SearchEngine.Infrastructure.dll

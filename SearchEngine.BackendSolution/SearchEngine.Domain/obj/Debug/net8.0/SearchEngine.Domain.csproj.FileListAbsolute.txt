@@ -1,0 +1,12 @@
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Domain\bin\Debug\net8.0\SearchEngine.Domain.deps.json
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Domain\bin\Debug\net8.0\SearchEngine.Domain.dll
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Domain\bin\Debug\net8.0\SearchEngine.Domain.pdb
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Domain\obj\Debug\net8.0\SearchEngine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Domain\obj\Debug\net8.0\SearchEngine.Domain.AssemblyInfoInputs.cache
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Domain\obj\Debug\net8.0\SearchEngine.Domain.AssemblyInfo.cs
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Domain\obj\Debug\net8.0\SearchEngine.Domain.csproj.CoreCompileInputs.cache
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Domain\obj\Debug\net8.0\SearchEngine.Domain.sourcelink.json
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Domain\obj\Debug\net8.0\SearchEngine.Domain.dll
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Domain\obj\Debug\net8.0\refint\SearchEngine.Domain.dll
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Domain\obj\Debug\net8.0\SearchEngine.Domain.pdb
+D:\Search Engine Project\SearchEngine.BackendSolution\SearchEngine.Domain\obj\Debug\net8.0\ref\SearchEngine.Domain.dll
