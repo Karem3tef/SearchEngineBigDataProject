@@ -136,9 +136,9 @@ Returns paginated, ranked results based on the inverted index stored in HDFS.
 
 ## 📬 Contact
 
-**Author:** Mahmoud Amin
-**GitHub:** [@MahmoudAmin5](https://github.com/MahmoudAmin5)
-**Email:** [mahmoud886.amin@gmail.com](mahmoud886.amin@gmail.com)
+**Author:** Karim Atef
+**GitHub:** [Karem3tef](https://github.com/Karem3tef)
+**Email:** [karemkmbsh6@gmail.com](karemkmbsh6@gmail.com)
 
 ---
 
